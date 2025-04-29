@@ -1,0 +1,1 @@
+<img src="https://i.ibb.co/m9XGm8k/logo-tecmoneda.png" alt="logo-tecmoneda" width="15%" style="margin: auto;"><?php /**PATH C:\xampp\htdocs\Tecmonedasv3.0\resources\views/components/application-logo.blade.php ENDPATH**/ ?>

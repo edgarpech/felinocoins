@@ -1,0 +1,1 @@
+Mi perfil<?php /**PATH D:\www\TecMonedas\resources\views/perfil.blade.php ENDPATH**/ ?>
