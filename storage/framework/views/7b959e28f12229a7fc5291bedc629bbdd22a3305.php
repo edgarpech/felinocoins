@@ -1,2 +1,0 @@
-<?php echo $__env->make('livewire.accounts/create', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?>
-<?php /**PATH C:\xampp\htdocs\Tecmonedasv3.0\resources\views/livewire/accounts/crud-accounts.blade.php ENDPATH**/ ?>
